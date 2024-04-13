@@ -1,5 +1,4 @@
 # YouTube-Data-Analysis-Project
-Analyze YouTube channel stats &amp; video data using Python &amp; YouTube API. Gain insights on views, engagement, &amp; audience behavior. Optimize content strategy with data-driven decisions.
 #### Introduction:
 This project involves analyzing YouTube channel statistics and video data using the YouTube Data API. The goal is to gain insights into channel performance, video engagement, and audience behavior.
 
@@ -16,7 +15,6 @@ This project involves analyzing YouTube channel statistics and video data using 
 - **`youtube_data_analysis.ipynb`**: Jupyter Notebook containing the Python code for data collection, preprocessing, exploratory data analysis, and visualization.
 - **`README.md`**: Documentation detailing project overview, technologies used, and instructions for running the notebook.
 - **`requirements.txt`**: List of Python dependencies required to run the project.
-- **`LICENSE`**: License information for the project.
 
 #### Data Collection:
 - Utilized the YouTube Data API to retrieve channel statistics and video details.
@@ -44,6 +42,3 @@ This project provides valuable insights into YouTube channel performance and aud
 1. Clone the repository to your local machine.
 2. Install the required dependencies using `pip install -r requirements.txt`.
 3. Open and run the `youtube_data_analysis.ipynb` notebook in a Jupyter environment.
-
-#### License:
-This project is licensed under the [MIT License](LICENSE).
