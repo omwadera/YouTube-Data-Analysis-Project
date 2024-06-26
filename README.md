@@ -38,7 +38,3 @@ This project involves analyzing YouTube channel statistics and video data using 
 #### Conclusion:
 This project provides valuable insights into YouTube channel performance and audience engagement, which can inform content strategy and optimization efforts.
 
-### How to Run:
-1. Clone the repository to your local machine.
-2. Install the required dependencies using `pip install -r requirements.txt`.
-3. Open and run the `youtube_data_analysis.ipynb` notebook in a Jupyter environment.
